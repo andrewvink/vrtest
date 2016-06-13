@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <input height="2176" levelingpitch="0" levelingroll="0" width="2176" overlap="1" levelbiashidpi="0.400" leveltileurl="tiles/IMG_3424/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400">
+      <level height="2176" width="2176" predecode="0" preload="0"/>
+      <level height="1088" width="1088" predecode="0" preload="0"/>
+      <level height="544" width="544" predecode="0" preload="0"/>
+      <level height="272" width="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="179">
+      <start tilt="0" pan="0" fov="70"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata title="" datetime="" longitude="18.432486" comment="" source="" tags="VR Test" info="" copyright="" description="" author="" latitude="-34.011039"/>
+    <hotspots height="300" wordwrap="1" width="300">
+      <label backgroundcolor="0xffffff" backgroundalpha="1" height="300" wordwrap="1" textalpha="1" background="1" borderalpha="1" enabled="1" width="300" borderradius="1" bordercolor="0x000000" border="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+      <hotspot title="IMG_3425" id="Point01" tilt="0" skinid="ht_node" pan="60.2006" target="-121.799/0/70" url="{node2}" description=""/>
+      <polyhotspot title="" id="Poly01" target="" url="{node2}" description="">
+        <vertex tilt="3.93" pan="164.96"/>
+        <vertex tilt="-45.97" pan="158.53"/>
+        <vertex tilt="-38.39" pan="-134.58"/>
+        <vertex tilt="1.14" pan="-147.44"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomin="0" blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve"/>
+    <control invertwheel="0" speedwheel="1" invertcontrol="1" hideabout="0" lockedkeyboard="0" lockedwheel="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="2176" levelingpitch="0" levelingroll="0" width="2176" overlap="1" levelbiashidpi="0.400" leveltileurl="tiles/IMG_3425/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400">
+      <level height="2176" width="2176" predecode="0" preload="0"/>
+      <level height="1088" width="1088" predecode="0" preload="0"/>
+      <level height="544" width="544" predecode="0" preload="0"/>
+      <level height="272" width="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="357">
+      <start tilt="0" pan="0" fov="70"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata title="" datetime="" longitude="18.432644" comment="" source="" tags="VR Test" info="" copyright="" description="" author="" latitude="-34.011111"/>
+    <hotspots height="300" wordwrap="1" width="300">
+      <label backgroundcolor="0xffffff" backgroundalpha="1" height="300" wordwrap="1" textalpha="1" background="1" borderalpha="1" enabled="1" width="300" borderradius="1" bordercolor="0x000000" border="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+      <polyhotspot title="" id="Poly01" target="" url="{node1}" description="">
+        <vertex tilt="1.19" pan="-166.83"/>
+        <vertex tilt="1.64" pan="156.59"/>
+        <vertex tilt="-29.98" pan="154.84"/>
+        <vertex tilt="-29.21" pan="-163.67"/>
+      </polyhotspot>
+      <polyhotspot title="" id="Poly02" target="" url="{node3}" description="">
+        <vertex tilt="1.59" pan="99.46"/>
+        <vertex tilt="1.27" pan="57.63"/>
+        <vertex tilt="-31.33" pan="54.1"/>
+        <vertex tilt="-32.91" pan="99.91"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomin="0" blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve"/>
+    <control invertwheel="0" speedwheel="1" invertcontrol="1" hideabout="0" lockedkeyboard="0" lockedwheel="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="2176" levelingpitch="0" levelingroll="0" width="2176" overlap="1" levelbiashidpi="0.400" leveltileurl="tiles/IMG_3426/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400">
+      <level height="2176" width="2176" predecode="0" preload="0"/>
+      <level height="1088" width="1088" predecode="0" preload="0"/>
+      <level height="544" width="544" predecode="0" preload="0"/>
+      <level height="272" width="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="280">
+      <start tilt="0" pan="0" fov="70"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata title="" datetime="" longitude="18.432625" comment="" source="" tags="VR Test" info="" copyright="" description="" author="" latitude="-34.011050"/>
+    <hotspots height="300" wordwrap="1" width="300">
+      <label backgroundcolor="0xffffff" backgroundalpha="1" height="300" wordwrap="1" textalpha="1" background="1" borderalpha="1" enabled="1" width="300" borderradius="1" bordercolor="0x000000" border="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+      <polyhotspot title="" id="Poly01" target="" url="{node2}" description="">
+        <vertex tilt="6.9" pan="-158.64"/>
+        <vertex tilt="6.86" pan="157.38"/>
+        <vertex tilt="-30.04" pan="151.74"/>
+        <vertex tilt="-30.62" pan="-152.28"/>
+      </polyhotspot>
+      <polyhotspot title="" id="Poly02" target="" url="{node4}" description="">
+        <vertex tilt="11.15" pan="30.59"/>
+        <vertex tilt="13.42" pan="-35.61"/>
+        <vertex tilt="-35.27" pan="-35"/>
+        <vertex tilt="-32.54" pan="29.62"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomin="0" blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve"/>
+    <control invertwheel="0" speedwheel="1" invertcontrol="1" hideabout="0" lockedkeyboard="0" lockedwheel="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="2176" levelingpitch="0" levelingroll="0" width="2176" overlap="1" levelbiashidpi="0.400" leveltileurl="tiles/IMG_3427/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400">
+      <level height="2176" width="2176" predecode="0" preload="0"/>
+      <level height="1088" width="1088" predecode="0" preload="0"/>
+      <level height="544" width="544" predecode="0" preload="0"/>
+      <level height="272" width="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="260">
+      <start tilt="0" pan="0" fov="70"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata title="" datetime="" longitude="18.432600" comment="" source="" tags="VR Test" info="" copyright="" description="" author="" latitude="-34.011097"/>
+    <hotspots height="300" wordwrap="1" width="300">
+      <label backgroundcolor="0xffffff" backgroundalpha="1" height="300" wordwrap="1" textalpha="1" background="1" borderalpha="1" enabled="1" width="300" borderradius="1" bordercolor="0x000000" border="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+      <polyhotspot title="" id="Poly01" target="" url="{node3}" description="">
+        <vertex tilt="10.1" pan="-166.23"/>
+        <vertex tilt="9.58" pan="128.87"/>
+        <vertex tilt="-31.35" pan="124.07"/>
+        <vertex tilt="-29.75" pan="-159.82"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomin="0" blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve"/>
+    <control invertwheel="0" speedwheel="1" invertcontrol="1" hideabout="0" lockedkeyboard="0" lockedwheel="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="0"/>
+  </panorama>
+</tour>
